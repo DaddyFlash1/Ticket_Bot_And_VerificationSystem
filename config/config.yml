@@ -1,0 +1,21 @@
+#######################################################################################
+#Bot instellingen
+
+token: 'YOUR_TOKEN_DUMB_ASS'
+guildId: 'Your_Guild_ID'
+status: 'Powered By Vendexhosting'
+
+#######################################################################################
+#kleuren
+                                                                                                              
+colors:
+    negative: 'ff0000'
+    positive: 'ff0000'
+    create: 'ff0000'
+    reply: '0000bf'
+
+#######################################################################################
+
+#Giveaway
+hostedBy: true
+everyoneMention: true
